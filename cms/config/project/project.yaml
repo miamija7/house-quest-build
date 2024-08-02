@@ -1,4 +1,4 @@
-dateModified: 1722609300
+dateModified: 1722632748
 email:
   fromEmail: andrew@nystudio107.com
   fromName: Craft
@@ -18,12 +18,15 @@ meta:
     5da841b1-ca0d-46ff-8bb1-04d6c889ac54: English # English
     6e02f8dc-c0f2-4abb-b480-7d064e9c3a93: Homepage # Homepage
     7a591e66-18df-490d-92b5-3fd3a3986f09: default # default
+    8b18b48f-719c-4879-a5c9-e6f98f2d2f4b: 'Market News' # Market News
     8f804a45-ad1d-4a71-b0b4-6df2040dc205: Nuts # Nuts
     071aeb2b-e8eb-4bcf-825c-dd016745f107: Flavor # Flavor
     4828c563-32cf-4021-afeb-1d5e38f31daf: 'Accent Color' # Accent Color
     6005c2f9-5d85-4442-b712-22e070096ac8: 'Public Schema' # Public Schema
     6359fe58-db81-4ee6-94eb-e9f4e3c61da6: Notes # Notes
+    311025df-1e1e-484d-9fd7-c33b52c2a634: Default # Default
     a61a8c07-9035-4ce5-8c71-83cc7f1fab89: 'Rich Text' # Rich Text
+    a5390bab-877b-4891-86aa-b579c3221409: 'Summary Text' # Summary Text
     bcdb5f37-103d-4e84-97a5-ab9a3e68e8b9: Global # Global
     c2e2b69d-127d-4afe-8032-0209247e70de: default # default
     d651a8a4-be44-47f4-a48e-4e38fb9e816e: Homepage # Homepage

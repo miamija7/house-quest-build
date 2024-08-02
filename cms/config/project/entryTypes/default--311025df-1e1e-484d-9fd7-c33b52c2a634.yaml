@@ -1,0 +1,67 @@
+fieldLayouts:
+  e9df6fcc-cf16-4293-ab12-b3214bfde4ac:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            disabled: false
+            elementCondition: null
+            id: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            readonly: false
+            requirable: false
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\entries\EntryTitleField
+            uid: 08551ed4-7134-4c17-85ba-2d796a470818
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: a5390bab-877b-4891-86aa-b579c3221409 # Summary Text
+            instructions: 'A short one or two sentence summary of the article.'
+            label: 'Article Summary'
+            required: true
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 1e035489-d3f2-452d-9602-47179d38c370
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: a61a8c07-9035-4ce5-8c71-83cc7f1fab89 # Rich Text
+            instructions: null
+            label: 'Article Copy'
+            required: true
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 102578f9-ca17-404f-b11f-58ff60bf1807
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: 8357b35a-ed64-442b-8808-77d59f1508e6
+        userCondition: null
+handle: default
+hasTitleField: true
+name: Default
+section: 8b18b48f-719c-4879-a5c9-e6f98f2d2f4b # Market News
+sortOrder: 1
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site

@@ -1,0 +1,19 @@
+columnSuffix: edibgkxm
+contentColumnType: text
+fieldGroup: bcdb5f37-103d-4e84-97a5-ab9a3e68e8b9 # Global
+handle: summaryText
+instructions: null
+name: 'Summary Text'
+searchable: false
+settings:
+  byteLimit: null
+  charLimit: null
+  code: false
+  columnType: null
+  initialRows: 4
+  multiline: false
+  placeholder: null
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText
